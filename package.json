@@ -1,0 +1,20 @@
+{
+  "name": "backend-javascript",
+  "version": "1.0.0",
+  "description": "javascript",
+  "main": "Clases.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marumosquera/backend-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marumosquera/backend-javascript/issues"
+  },
+  "homepage": "https://github.com/marumosquera/backend-javascript#readme"
+}
